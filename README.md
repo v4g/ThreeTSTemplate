@@ -15,7 +15,7 @@ run 'npm run build' or 'npx webpack'  in another terminal to build the applicati
 
 run 'npm run rebuild' to clean build
 
-All the scripts can be found in package.json. Modify them to suit your own needs.
+All the scripts can be found in package.json and the build instructions in webpack.config.js. Modify them to suit your own needs.
 
 I followed Webpack's documentation to build this.
 https://webpack.js.org/concepts/
